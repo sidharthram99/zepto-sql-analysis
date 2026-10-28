@@ -6,7 +6,7 @@ SQL analysis of Zepto's product and inventory data in **PostgreSQL**, covering d
 To use SQL to clean the product data and answer practical business questions that support decisions on pricing, discounts and inventory planning.
 
 ## 🗂️ Dataset
-- **Name:** [Zepto]
+- **Name:** Zepto
 - **Size:** 3731 rows × 9 columns
 - **Columns:** category, name, MRP, discount percent, available quantity, discounted selling price, weight (grams), out-of-stock status, quantity
 
