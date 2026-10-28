@@ -44,7 +44,7 @@ Full queries: [`sql/Zepto_Analysis.sql`](sql/Zepto_Analysis.sql)
 ## 📈 Key Insights
 - The deepest discounts reach **51%**, on three **Dukes Waffy wafer** products (chocolate, strawberry and orange), followed by several products at **50%**, including RRO dairy items and Moi Soi sauce
 - **Fruits & Vegetables** has the highest average discount at **15.46%**, followed by **Meats, Fish & Eggs** at **11.03%**
-- [Cooking essentials & Munchies has the  highest estimated revenue, after verifying the figures]
+- Cooking essentials & Munchies has the  highest estimated revenue, after verifying the figures
 - 
 
 ## 💡 SQL Concepts Used
